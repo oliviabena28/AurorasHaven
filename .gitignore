@@ -1,0 +1,24 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+
+# User-specific files
+.vs/
+.idea/
+.user/
+.userprefs
+
+# Windows image file caches
+Thumbs.db
+
+# macOS system files
+.DS_Store
+
+# Unity JetBrains Rider project files
+.idea/
+*.sln
+*.csproj
+*.unityproj
